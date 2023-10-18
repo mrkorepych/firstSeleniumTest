@@ -4,22 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479b00ef-b943-4144-8efb-2c09916a6b24" name="Changes" comment="">
-      <change afterPath="D:/firstSeleniumTest/.gitignore" afterDir="false" />
-      <change afterPath="D:/firstSeleniumTest/build.gradle.kts" afterDir="false" />
-      <change afterPath="D:/firstSeleniumTest/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="D:/firstSeleniumTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="D:/firstSeleniumTest/gradlew" afterDir="false" />
-      <change afterPath="D:/firstSeleniumTest/gradlew.bat" afterDir="false" />
-      <change afterPath="D:/firstSeleniumTest/settings.gradle.kts" afterDir="false" />
-      <change afterPath="D:/firstSeleniumTest/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="479b00ef-b943-4144-8efb-2c09916a6b24" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
+    <projectState path="D:/firstSeleniumTest">
+      <ProjectState />
+    </projectState>
     <projectState path="D:firstSeleniumTest">
       <ProjectState />
     </projectState>
@@ -39,9 +33,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="D:/firstSeleniumTest" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2Ww652zdXUoW7zhGUd73FWjRYoy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -52,7 +46,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "android.gradle.sync.needed": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/",
     "onboarding.tips.debug.path": "D:/firstSeleniumTest/src/main/java/org/example/Main.java",
