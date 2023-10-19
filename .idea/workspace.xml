@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479b00ef-b943-4144-8efb-2c09916a6b24" name="Changes" comment="" />
+    <list default="true" id="479b00ef-b943-4144-8efb-2c09916a6b24" name="Changes" comment="">
+      <change afterPath="D:/firstSeleniumTest/src/main/java/example/Constants.java" afterDir="false" />
+      <change afterPath="D:/firstSeleniumTest/src/test/java/example/FirstTest.java" afterDir="false" />
+      <change beforePath="D:/firstSeleniumTest/.idea/workspace.xml" beforeDir="false" afterPath="D:/firstSeleniumTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="D:/firstSeleniumTest/build.gradle.kts" beforeDir="false" afterPath="D:/firstSeleniumTest/build.gradle.kts" afterDir="false" />
+      <change beforePath="D:/firstSeleniumTest/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +27,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="D:/firstSeleniumTest">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -30,14 +39,26 @@
       </state>
     </system>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="D:/firstSeleniumTest" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2Ww652zdXUoW7zhGUd73FWjRYoy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,9 +70,23 @@
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/",
     "onboarding.tips.debug.path": "D:/firstSeleniumTest/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.notifications"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="FirstTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.FirstTest" />
+      <module name="firstSeleniumTest.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FirstTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
