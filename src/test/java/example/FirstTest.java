@@ -1,13 +1,14 @@
 package example;
 
-import example.Constants;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class FirstTest {
-    public static void main(String[] args) {
+    @Test
+    public void firstTest() {
         ChromeDriver chromeDriver = new ChromeDriver();
         chromeDriver.get(Constants.MAIN_PAGE_URL);
 
